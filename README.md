@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%3BI%20am%20Fynks&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi%3BI%20am%20Fynks&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <br />
