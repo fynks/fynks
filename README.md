@@ -1,10 +1,9 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hi%3BI%20am%20Fynks&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!;I'm+Fynks;Frontend+Developer;Open+Source+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&duration=3000&pause=1000">
 </p>
 
-<br />
-
 <p align="center">
-    <img  src="https://github-readme-stats.vercel.app/api?username=fynks&theme=radical&show_icons=true&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=fynks&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -12,14 +11,31 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fynks&theme=radical&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fynks&theme=radical&hide_border=true&layout=compact" alt="Most Used Languages" />
 </p>
 
+<h2 align="center">Recent Projects</h2>
 
+<p align="center">
+    <a href="https://github.com/fynks/awesome-android-root">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fynks&repo=awesome-android-root&theme=radical&hide_border=true" />
+    </a>
+    <a href="https://github.com/fynks/debrid-services-comparison">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fynks&repo=debrid-services-comparison&theme=radical&hide_border=true" />
+    </a>
+</p>
 
+<h2 align="center">Technologies & Tools</h2>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-![](https://dynamic-badges.maxalpha.repl.co/views?id=Jaysmito101.Profile)
-
+<p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
